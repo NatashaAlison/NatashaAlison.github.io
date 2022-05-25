@@ -2,21 +2,21 @@ body {
 font-family: "Goudy Bookletter 1911";
 margin: 15px;
 padding: 40px;
-background-color: #f3f7f6;
+background-color: #D6E3F8;
 }
 
 h1 {
-color: #104b56;
-text-shadow: 2px 2px #c3d5d1;
+color: #584B53;
+text-shadow: 2px 2px #E4BB97;
 }
 
 h2 {
-color: #24948e;
-text-shadow: 2px 2px #c3d5d1;
+color: #9D5C63;
+text-shadow: 2px 2px #E4BB97;
 }
 
 h4 {
-color: #28a49e;
+color: #9D5C63;
 }
 
 p {
