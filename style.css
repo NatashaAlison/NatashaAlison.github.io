@@ -58,7 +58,7 @@ text-shadow: 2px 2px #D6E3F8;
 ul.navigation {
 list-style-type: none;
 overflow: hidden;
-position: fixed;
+position: sticky;
 top: 0;
 list-style-type: none;
 margin: 0px;
@@ -69,6 +69,11 @@ background-color: #9D5C63;
 
 li.navigation { 
   float: left; 
+}
+
+.active {
+  background-color: #D6E3F8;
+  color: #584B53;
 }
 
 li a {
