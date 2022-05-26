@@ -1,7 +1,6 @@
 body {
 font-family: "Goudy Bookletter 1911";
 margin: 15x;
-padding: 40px;
 background-color: #FEF5EF;
 }
 
@@ -82,7 +81,7 @@ text-align: center;
 
 li a:hover {
 background-color: #D6E3F8;
-color: #104b56;
+color: #584B53;
 }
 
 table {
