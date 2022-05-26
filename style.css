@@ -1,6 +1,5 @@
 body {
 font-family: "Goudy Bookletter 1911";
-margin: 15px;
 padding: 40px;
 background-color: #FEF5EF;
 }
@@ -53,7 +52,7 @@ padding: 5px;
 font-size: 50px;
 text-align: center;
 padding: 20px;
-background-color: #9D5C63; 
+background-color: #E4BB97; 
 text-shadow: 2px 2px #D6E3F8;
 }
 
@@ -81,7 +80,7 @@ text-align: center;
 }
 
 li a:hover {
-background-color: #D6E3F8;
+background-color: #9D5C63;
 color: white;
 }
 
