@@ -7,16 +7,16 @@ background-color: #FEF5EF;
 
 h1 {
 color: #584B53;
-text-shadow: 2px 2px #E4BB97;
+text-shadow: 2px 2px #D6E3F8;
 }
 
 h2 {
-color: #9D5C63;
-text-shadow: 2px 2px #E4BB97;
+color: #E4BB97;
+text-shadow: 2px 2px #D6E3F8;
 }
 
 h4 {
-color: #9D5C63;
+color: #E4BB97;
 }
 
 p {
@@ -28,7 +28,7 @@ padding: 10px;
 }
 
 a {
-color: #80000b;
+color: #9D5C63;
 }
 
 img.pic {
@@ -53,8 +53,8 @@ padding: 5px;
 font-size: 50px;
 text-align: center;
 padding: 20px;
-background-color: #E4BB97; 
-text-shadow: 2px 2px #c3d5d1;
+background-color: #9D5C63; 
+text-shadow: 2px 2px #D6E3F8;
 }
 
 ul.navigation {
@@ -66,11 +66,7 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 width: 100%;
-background-color: #5bd7d1;
-}
-
-li.navigation {
-float: left;
+background-color: #D6E3F8;
 }
 
 li a {
@@ -81,7 +77,7 @@ text-align: center;
 }
 
 li a:hover {
-background-color: #c3d5d1;
+background-color: #D6E3F8;
 color: white;
 }
 
