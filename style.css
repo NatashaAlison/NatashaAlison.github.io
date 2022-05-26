@@ -11,8 +11,8 @@ text-shadow: 2px 2px #D6E3F8;
 }
 
 h2 {
-color: #E4BB97;
-text-shadow: 2px 2px #D6E3F8;
+color: #584B53;
+text-shadow: 2px 2px #E4BB97;
 }
 
 h4 {
@@ -67,6 +67,10 @@ margin: 0;
 padding: 0;
 width: 100%;
 background-color: #D6E3F8;
+}
+
+li.navigation { 
+  float: left; 
 }
 
 li a {
