@@ -72,11 +72,6 @@ li.navigation {
   float: left; 
 }
 
-.active {
-  background-color: #D6E3F8;
-  color: #584B53;
-}
-
 li a {
 display: block;
 color: white;
@@ -87,6 +82,11 @@ text-align: center;
 li a:hover {
 background-color: #D6E3F8;
 color: #584B53;
+}
+
+li a:active {
+  background-color: #D6E3F8;
+  color: #584B53;
 }
 
 table {
