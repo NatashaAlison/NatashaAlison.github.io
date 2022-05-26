@@ -2,7 +2,7 @@ body {
 font-family: "Goudy Bookletter 1911";
 margin: 15x;
 padding: 40px;
-background: linear-gradient(white, #FEF5EF, #E4BB97);
+background: linear-gradient(#FEF5EF, #FDE7D9, #EED5BE, #E4BB97);
 }
 
 h1 {
