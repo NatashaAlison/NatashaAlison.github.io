@@ -1,6 +1,7 @@
 body {
 font-family: "Goudy Bookletter 1911";
 margin: 15x;
+padding: 40px;
 background: linear-gradient(#FEF5EF, white);
 }
 
