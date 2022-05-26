@@ -2,7 +2,7 @@ body {
 font-family: "Goudy Bookletter 1911";
 width: 100%;
 height: 100%;
-background: linear-gradient(#bcfbcd, #d9eddf, #ecfef1, #ffffff);
+background: linear-gradient(#ffffff, #ecfef1, #d9eddf, #bcfbcd);
 }
 
 h1 {
@@ -11,22 +11,22 @@ text-shadow: 2px 2px #6e9b7b;
 }
 
 h2 {
-color: #6e9b7b;
+color: #386c5f;
 margin: 15px;
-padding-left: 30px;
-text-shadow: 2px 2px #386c5f;
+padding-left: 15px;
+text-shadow: 2px 2px #9eb0a2;
 }
 
 h4 {
-color: #6e9b7b;
+color: #386c5f;
 margin: 15px;
-padding-left: 40px;
+padding-left: 18px;
 }
 
 p {
-color: #202020;
+color: #002d00;
 margin: 15px;
-padding-left: 45px;
+padding-left: 21px;
 }
 
 p.image {
@@ -81,18 +81,13 @@ li.navigation {
 li a {
 display: block;
 color: white;
-padding: 0px 16px;
+padding: 8px 16px;
 text-align: center;
 }
 
 li a:hover {
 background-color: #386c5f;
 color: #ecfef1;
-}
-
-li a:active {
-  background-color: #386c5f;
-  color: #ecfef1;
 }
 
 table {
